@@ -4,7 +4,7 @@ query info JSON files
 
 ### Usage
 
-1. Clone this repo
+1. Clone this repo or download and unzip [the repo archive](./archive/refs/heads/main.zip)
 1. Store Query Info JSON files in the 'v1/query' folder. Say you save a file named `test1`
 1. Start up the web app (at repo root) using :
 ```
